@@ -1,6 +1,5 @@
 Entidades Principales
 
-
 Ciudad
 Cliente
 Compra
